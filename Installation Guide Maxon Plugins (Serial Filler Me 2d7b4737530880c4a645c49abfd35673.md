@@ -133,6 +133,3 @@ After Effects requires Cinema 4D to work; it **cannot** be uninstalled!
     `PFEK1245921362842515`
     
     Now you're done, enjoy!
-    
-
-                                                                      **`Guide written by:** Ayla`
